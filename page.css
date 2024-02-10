@@ -1,0 +1,29 @@
+/* body{
+    background-color: black;
+} */
+
+h1{
+    background-color: burlywood;
+    color: brown;
+    text-align: center;
+}
+
+div{
+    display:flex ;
+    gap: 30px;
+    text-align: center;
+    /* border: 1px solid red; */
+    padding-left: 20%;
+}
+
+p{
+    width: 50%;
+    background-color: rgb(184, 77, 77);
+    color: white;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+img{
+    border-radius: 30px;
+}

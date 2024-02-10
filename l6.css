@@ -1,0 +1,16 @@
+a{
+    font-size: 2rem;
+}
+
+a:link{
+    color: red;
+    background-color: black;
+}
+
+a:visited{
+    color: brown;
+    background-color: yellow;
+}
+/* h1{
+    background-color: rgb(145, 145, 239);
+} */
