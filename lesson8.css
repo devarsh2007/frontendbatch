@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu_image{
+    margin: 10px;
+}   
+
+#menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.menu_links{
+    display: flex;
+    /* background-color: black; */
+}
+.link{
+    /* padding-right: 20px; */
+    padding: 25px;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.3rem;
+}
+.link a{
+    color: black;
+    text-decoration: none;
+    background-color: bisque;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.link a:hover{
+    background-color: gray;
+    color: white;
+}
+
+.products{
+    display: flex;
+    /* background-color: aqua; */
+    margin: 10px;
+    gap: 5px;
+}
+
+.products div{
+    background-color: rgb(196, 143, 246);
+
+    border-radius: 10px;
+
+    padding: 15px;
+}
+
+h2{
+    padding-bottom: 5px;
+}
+
+img{
+    padding-bottom: 5px;
+}
+
+.products div:hover{
+    background-color: black;
+    color: white;
+}

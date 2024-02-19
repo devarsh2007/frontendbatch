@@ -1,0 +1,23 @@
+/* section{
+    background-color: rgb(133, 235, 133);
+} */
+
+div{
+    display: flex;
+    gap: 10px;
+    /* background-color: black; */
+}
+
+section{
+    background-color: rgb(136, 136, 249);
+    border-radius: 20px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+
+section:hover{
+    background-color: black;
+    color: white;
+}
